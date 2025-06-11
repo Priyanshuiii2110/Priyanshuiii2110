@@ -29,7 +29,7 @@
 ## ⚒️ My Tech Toolbox
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,py,c,cpp,html,css,nodejs,express,mongodb,mysql,git,github,vscode,figma,vercel" />
 </p>
 
 ---
